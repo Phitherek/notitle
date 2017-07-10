@@ -1,0 +1,2 @@
+require './notitle'
+run NotitleApp
